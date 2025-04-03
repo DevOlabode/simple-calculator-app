@@ -15,13 +15,13 @@ To run the calculator app locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-git clone https://github.com/DevOlabode/simple-calculator-app
-.git    ```
-2.  **Navigate to the project directory:**
+    git clone https://github.com/DevOlabode/simple-calculator-app.git
+    ```
+3.  **Navigate to the project directory:**
     ```bash
     cd simple-calculator-app
     ```
-3.  **Open `index.html` in your web browser.**
+4.  **Open `index.html` in your web browser.**
 
 ## Usage
 
@@ -48,7 +48,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## License
 
-This project is licensed under the [Specify the License, e.g., MIT License] - see the [](LICENSE) file for details.
+This project is licensed under the  MIT License - see the [MIT](LICENSE) file for details.
 
 ## Author
 
