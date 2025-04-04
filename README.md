@@ -1,6 +1,6 @@
 # Simple Calculator App
 
-This is a simple calculator application built using [mention the technologies used, e.g., HTML, CSS, and JavaScript]. It provides basic arithmetic operations like addition, subtraction, multiplication, and division.
+This is a simple calculator application built using HTML, CSS and Javascript. It provides basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Features
 
