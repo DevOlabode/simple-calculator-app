@@ -13,6 +13,7 @@ This is a simple calculator application built using HTML, CSS and Javascript. It
 
 ## Screenshots
 ![My Image](/screenshots/2+2.png)
+![My Image](/screenshots/answer.png)
 
 
 
