@@ -2,6 +2,8 @@
 
 This is a simple calculator application built using HTML, CSS and Javascript. It provides basic arithmetic operations like addition, subtraction, multiplication, and division.
 
+![My Image](/screenshots/Simple.png)
+
 ## Features
 
 * **Basic Arithmetic Operations:** Perform addition, subtraction, multiplication, and division.
