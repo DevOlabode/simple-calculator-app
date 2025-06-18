@@ -11,6 +11,11 @@ This is a simple calculator application built using HTML, CSS and Javascript. It
 * **User-Friendly Interface:** Simple and intuitive design.
 * **Error Handling:** Handles division by zero and other potential errors.
 
+## Screenshots
+![My Image](/screenshots/2+2.png)
+
+
+
 ## Getting Started
 
 To run the calculator app locally, follow these steps:
